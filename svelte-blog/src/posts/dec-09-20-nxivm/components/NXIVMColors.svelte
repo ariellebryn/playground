@@ -15,7 +15,8 @@
         font-size: 1.2rem;
         text-align: center;
         font-weight: 600;
-        margin: 1em;
+        margin: 1em 0;
+
     }
 </style>
 
