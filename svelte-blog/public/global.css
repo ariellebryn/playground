@@ -1,0 +1,83 @@
+html, body {
+	position: relative;
+	width: 100%;
+	height: auto;
+	overflow-x: hidden;
+	padding: 0;
+	margin: 0;
+	background-color: #EBD2BE;
+	box-sizing: border-box;
+}
+
+body {
+	font: 100% "noahregular", Helvetica, sans-serif;
+	color: #212121; 
+	margin: 0;
+}
+
+a {
+	font: 100% "noahregular", Helvetica, sans-serif;
+	color: #212121; 
+}
+
+h1, h2 {
+	font: 100% "Alice", serif;
+	font-size: 2.2em;
+	font-weight: 600;
+	letter-spacing: 0.03em; 
+}
+
+h2 {
+	text-decoration: underline; 
+}
+
+label {
+	display: block;
+}
+
+input, button, select, textarea {
+	font-family: inherit;
+	font-size: inherit;
+	-webkit-padding: 0.4em 0;
+	padding: 0.4em;
+	margin: 0 0 0.5em 0;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+}
+
+input:disabled {
+	color: #ccc;
+}
+
+button {
+	color: #333;
+	background-color: #f4f4f4;
+	outline: none;
+}
+
+button:disabled {
+	color: #999;
+}
+
+button:not(:disabled):active {
+	background-color: #ddd;
+}
+
+button:focus {
+	border-color: #666;
+}
+
+/** Flex **/
+
+.horiz_flex {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	max-width: 650px;
+	margin-bottom: 20px;
+}
+
+.horiz_flex > div {
+	margin: 6px;
+}
