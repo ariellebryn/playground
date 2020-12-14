@@ -15,6 +15,7 @@
 	font-weight: 600;
     letter-spacing: 0.03em; 
     text-align: center;
+    line-height: 2rem;
 }
 
 .post_meta {

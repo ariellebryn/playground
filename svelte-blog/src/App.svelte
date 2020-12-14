@@ -53,11 +53,12 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		box-sizing: border-box;
 	}
 
 	@media (min-width: 640px) {
 		main {
-			max-width: none;
+			padding: 20px;
 		}
 	}
 </style>
