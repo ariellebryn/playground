@@ -13,11 +13,10 @@
 
 <PostParagraph>
     For all the people who have physically recoiled this month watching all
-    those people gather to watch
-    <i>kids sing</i>
-    (inside of all places) in Love Actually or crowd the streets outside Central
-    Park in Elf
-    <b>without masks</b>–well, do we have the remedy for you!
+    those people gather to watch kids sing (<i>inside</i>
+    of all places) in Love Actually, or sweat at the size of the crowd outside
+    Central Park in Elf
+    <b>without a single mask</b>–well, do we have the remedy for you!
     <br /><br />
     <a href="https://festiv.me" target="_blank">
         <div class="dec2120">
@@ -31,12 +30,13 @@
         Times</a>, where you can generate fun 2020-themed movie concepts such
     as:
     <br /><br />
-    "Humble chess prodigy Karen (Tessa Thompson) is having trouble getting her
-    slap mask brand brand off the ground. Reaching for the last Gluten-Free
-    Italian Panettone, she meets Nora (Liza Koshy), a down-on-her-luck
-    SoundCloud rapper who is counting on her new Christmas album to revive her
-    career."
-
+    "Humble
+    <b>chess prodigy</b>
+    Karen (Tessa Thompson) is having trouble getting her
+    <b>slap mask brand brand off the ground</b>. Reaching for the last
+    <i>Gluten-Free Italian Panettone</i>, she meets Nora (Liza Koshy), a
+    down-on-her-luck SoundCloud rapper who is
+    <b>counting on her new Christmas album to revive her career</b>."
     <br /><br />
     <a href="https://twitter.com/PamelaMishkin" target="_blank">Pamela</a>
     and I released it yesterday just in time for you to get in the
